@@ -1,0 +1,27 @@
+{
+  "name": "mn-ip",
+  "version": "1.0.0",
+  "description": "Look for localip",
+  "scripts": {
+    "test": "mn-ip"
+  },
+  "bin": {
+    "mn-ip": "bin/mn-ip"
+  },
+  "dependencies": {
+    "chalk": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axios/axios.git"
+  },
+  "keywords": [
+    "ip",
+    "mac"
+  ],
+  "engines": {
+    "node": ">=6.5.0"
+  },
+  "author": "caomeng",
+  "license": "ISC"
+}
