@@ -1,6 +1,7 @@
-#mn-ip 本机IP mac地址 查询
+## mn-ip 本机IP mac地址 查询
 
-###Install
+### Install
+
 Using npm:
 ```ssh
 npm install -g mn-ip
